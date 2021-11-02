@@ -1,0 +1,6 @@
+.email-list {
+    height: 400px;
+    font-size: 12px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

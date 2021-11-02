@@ -1,0 +1,20 @@
+{
+    "mail.ru": "imap.mail.ru",
+    "yahoo.com": "imap.mail.yahoo.com",
+    "yahoo.co.uk": "imap.mail.yahoo.co.uk",
+    "gmail": "imap.gmail.com",
+    "yandex": "imap.yandex.com",
+    "outlook.com": "imap-mail.outlook.com",
+    "live.co.uk": "imap-mail.outlook.com",
+    "hotmail": "imap-mail.outlook.com",
+    "ntlworld": "imap.ntlworld.com",
+    "aol.com": "imap.aol.com",
+    "mail.com": "imap.mail.com",
+    "btinternet": "mail.btinternet.com",
+    "talktalk": "mail.talktalk.net",
+    "virginmedia": "imap.virginmedia.com",
+    "o2online": "imap.o2online.de",
+    "t-online": "secureimap.t-online.de",
+    "verizon": "incoming.verizon.net",
+    "postoffice": "imap.postoffice.net"
+}
